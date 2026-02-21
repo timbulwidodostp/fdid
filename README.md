@@ -1,6 +1,8 @@
 # fdid
 Estimates Forward Difference-in-Differences (FDID) Use fdid With STATA 19
 
+https://www.youtube.com/watch?v=XnEqiGclcQ0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
